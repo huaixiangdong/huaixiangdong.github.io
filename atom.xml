@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://huaixiangdong.github.io/</id>
     <title>怀向东的博客</title>
-    <updated>2020-07-05T14:19:41.396Z</updated>
+    <updated>2020-07-06T02:17:01.964Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://huaixiangdong.github.io/"/>
     <link rel="self" href="https://huaixiangdong.github.io/atom.xml"/>
@@ -10,6 +10,36 @@
     <logo>https://huaixiangdong.github.io/images/avatar.png</logo>
     <icon>https://huaixiangdong.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, 怀向东的博客</rights>
+    <entry>
+        <title type="html"><![CDATA[Baostock & Tushare 数据获取和验证]]></title>
+        <id>https://huaixiangdong.github.io/post/baostock-and-tushare-shu-ju-huo-qu-he-yan-zheng/</id>
+        <link href="https://huaixiangdong.github.io/post/baostock-and-tushare-shu-ju-huo-qu-he-yan-zheng/">
+        </link>
+        <updated>2020-07-06T02:14:44.000Z</updated>
+        <summary type="html"><![CDATA[<p>test<br>
+<img src="https://huaixiangdong.github.io//post-images/1594001739897.png" alt="" loading="lazy"></p>
+]]></summary>
+        <content type="html"><![CDATA[<p>test<br>
+<img src="https://huaixiangdong.github.io//post-images/1594001739897.png" alt="" loading="lazy"></p>
+<!-- more -->
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[关于]]></title>
+        <id>https://huaixiangdong.github.io/post/about/</id>
+        <link href="https://huaixiangdong.github.io/post/about/">
+        </link>
+        <updated>2019-01-25T11:09:48.000Z</updated>
+        <content type="html"><![CDATA[<!-- more -->
+<blockquote>
+<p>欢迎来到我的小站呀，很高兴遇见你！🤝</p>
+</blockquote>
+<h2 id="关于本站">🏠 关于本站</h2>
+<h2 id="博主是谁">👨‍💻 博主是谁</h2>
+<h2 id="兴趣爱好">⛹ 兴趣爱好</h2>
+<h2 id="联系我呀">📬 联系我呀</h2>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Hello Gridea]]></title>
         <id>https://huaixiangdong.github.io/post/hello-gridea/</id>
