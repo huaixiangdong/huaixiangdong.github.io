@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://huaixiangdong.github.io/</id>
     <title>怀向东的博客</title>
-    <updated>2020-07-07T02:30:08.431Z</updated>
+    <updated>2020-07-07T02:43:12.979Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://huaixiangdong.github.io/"/>
     <link rel="self" href="https://huaixiangdong.github.io/atom.xml"/>
@@ -10,6 +10,18 @@
     <logo>https://huaixiangdong.github.io/images/avatar.png</logo>
     <icon>https://huaixiangdong.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, 怀向东的博客</rights>
+    <entry>
+        <title type="html"><![CDATA[王小毛是个泥猴子]]></title>
+        <id>https://huaixiangdong.github.io/post/wang-xiao-mao-shi-ge-ni-hou-zi/</id>
+        <link href="https://huaixiangdong.github.io/post/wang-xiao-mao-shi-ge-ni-hou-zi/">
+        </link>
+        <updated>2020-07-07T02:38:19.000Z</updated>
+        <content type="html"><![CDATA[<p>小毛从来是只能在前院活动，撒个尿或拉个屎，大不了再刨个坑。反正前院的花花草草已经糟蹋得差不多了。<br>
+今天他奋力一钻，居然穿过了木栅栏，然后直奔河滩，开始反复向河里冲刺，好爽啊！<br>
+然后，就变成了个泥猴子了。😣<br>
+<img src="https://huaixiangdong.github.io//post-images/1594089731607.JPG" alt="" loading="lazy"></p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Baostock & Tushare 数据获取和验证]]></title>
         <id>https://huaixiangdong.github.io/post/baostock-and-tushare-shu-ju-huo-qu-he-yan-zheng/</id>
